@@ -1,2 +1,2 @@
 # Summers21_CubeSolver
-Cube Solver Summer Project by SpeedCubingClub IIT Kanpur
+Summer Project by SpeedCubingClub IIT Kanpur- 3x3 Cube Solver
